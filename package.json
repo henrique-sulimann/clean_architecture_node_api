@@ -1,0 +1,23 @@
+{
+  "name": "clean_architecture_node_api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/henrique-sulimann/clean_architecture_node_api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/henrique-sulimann/clean_architecture_node_api/issues"
+  },
+  "homepage": "https://github.com/henrique-sulimann/clean_architecture_node_api#readme",
+  "devDependencies": {
+    "git-commit-msg-linter": "^4.4.0"
+  }
+}
