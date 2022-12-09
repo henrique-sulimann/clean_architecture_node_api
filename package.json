@@ -18,6 +18,14 @@
   },
   "homepage": "https://github.com/henrique-sulimann/clean_architecture_node_api#readme",
   "devDependencies": {
-    "git-commit-msg-linter": "^4.4.0"
+    "@typescript-eslint/eslint-plugin": "^5.46.0",
+    "eslint": "^8.29.0",
+    "eslint-config-standard-with-typescript": "^23.0.0",
+    "eslint-plugin-import": "^2.26.0",
+    "eslint-plugin-n": "^15.6.0",
+    "eslint-plugin-promise": "^6.1.1",
+    "git-commit-msg-linter": "^4.4.0",
+    "husky": "^8.0.2",
+    "typescript": "^4.9.4"
   }
 }

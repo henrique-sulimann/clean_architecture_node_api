@@ -1,0 +1,7 @@
+{
+  "extends": "standard-with-typescript",
+  "parserOptions": {
+    "project": "./tsconfig.json",
+    "tsconfigRootDir": "/Users/admin/github/clean_architecture_node_api"
+  }
+}
