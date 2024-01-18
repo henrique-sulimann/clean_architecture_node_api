@@ -3,5 +3,8 @@
   "parserOptions": {
     "project": "./tsconfig.json",
     "tsconfigRootDir": "/Users/admin/github/clean_architecture_node_api"
+  },
+  "rules": {
+    "@typescript-eslint/strict-boolean-expressions" : "off"
   }
 }
